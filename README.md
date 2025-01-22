@@ -10,23 +10,18 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
+
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Kerry and I am a first-year Master of Entertainment Industry Management student at Heinz. My pronouns are she/her/hers. Future employers please hire me thank you.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I'm interested in learning how to use data visulization to make information more concise. I want to be able to utilize data visualization in my future internships/jobs in areas such as film or TV marketing, industry research, and other data-related tasks. I want to look professional through using data visulization. Once I graduate, I hope to work in the backend of the entertainment industry and utilize what I've learned in this course to create professional industry content in entertainment projects. 
 
 # Portfolio
+
+## Project 1
+## Project 2
+## Project 3
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
