@@ -15,7 +15,8 @@ Text here...
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![Initial Graphs](https://raw.githubusercontent.com/kerryhuangcmu/Initial-Graph-Image/acd51e86bd726cc04b2dba4e94665bd385663fe1/Initial%20Graphs.png)
+ 
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
