@@ -15,6 +15,7 @@ _Include link to the original data visualization (or screenshot - make sure to c
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
+![alt text](https://github.com/kerryhuangcmu/Kerry-s-Data-Portfolio/blob/main/Step%203.png?raw=true)
 
 ## Step four: Test the solution
 
