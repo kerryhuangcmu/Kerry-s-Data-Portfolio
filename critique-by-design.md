@@ -95,7 +95,27 @@ The design changes I will implement will be as follows:
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+I first redesign the bar chart according to the critique in class.
+
+![alt text](https://github.com/kerryhuangcmu/Kerry-s-Data-Portfolio/blob/ac156a15adfbf6718b3baf872662f8444325a862/Redesign-Bar%20chart.png?raw=true)
+
+Here is the public Tableau link to it: https://public.tableau.com/app/profile/kerry.huang8806/viz/Top10Universitieswiththehigheststudentloansinthestates2020-2021/Sheet1?publish=yes 
+
+After the critique in class, I realized that my story needed stronger reasoning. I began to rethink how I should design the data visualization. Initially, I wanted to add a bar graph on Top 10 Universities with the Least Loan Originations by State. I planned to compare and contrast the top 10 with the highest and top 10 with the lowest loans. My goal was to inform prospective college students to use this data to assess potential financial risks. However, after further research, I found that loan amounts don’t necessarily correlate with a school’s performance. For example, New York University has 405 million loans, while Pacific Islands University has 1 million loans in total, but that does not mean that Pacific Islands University is necessarily the better option, or vice versa. To make logical correlations, it is important to use more data sources.
+
+I found an interactive map online from The Institute for College Access & Success, which has a report that documents student debt of 50 states from the class of 2020. The data contains the average debt of graduates from 2020, along with other information such as percent of graduates at schools, fall enrollment rates, and other variables. I selected the average debt of graduates from each state as the source of new data, which reduces the data in the original interactive map. Then in Tableau, I inserted the data and used two color schemes: the more blue it is, the less debt on average the student has in the state. The more orange, the more debt on average the student has. This also refined the color schemes the original data since the new colors are more intuitive in their meanings (ex. blue is less threatening, which indicates lower loans).
+
+![alt text](https://github.com/kerryhuangcmu/Kerry-s-Data-Portfolio/blob/08abffc6c854c011e3e0f738732ce458f1205686/Redesign-Interactive%20Map.png?raw=true) 
+
+I advise using the public Tableau link to the refined interactive map so you can hover around for the specific data on each states' avaerage student loans:
+https://public.tableau.com/app/profile/kerry.huang8806/viz/AverageStudentDebtbyState2020/Sheet1?publish=yes
+
+The target audience for these two visualizations are policy makers and government officials in the realm of education. These are used to help them understand the varying levels of debt in different states. Using the redesigned interactive map, we can see that on average in the east coast, student graduates have more debt as compared to the west. This could represent that universities in the west are generally more affordable than the east, or people are richer in the west. Therefore, with regards to funding policies, the government could perhaps increase the educational subsidies in the east to improve the equity of access to education across the country. Connecting with the bar chart, we can gather more specific information on the same issue of student loans across states. The bar graph showing the top 10 universities with the highest student loans during 2020-2021 can help the government identify the institutions where the most loans originated from. Using this information, the government can investigate the reasons behind the large amount of debts. The government can also determine whether it makes sense for these colleges to have these huge amounts of debts. 
+
+With the interactive map, we can understand the debt coming from the universities in the context of the average debt of the states. For example, California generally has a low debt, as the blue indicates, we would imagine USC having less student loans, but the bar chart shows that USC ranked the 7th highest in student loans. Government can use this information to investigate the problem and to see whether more funding is needed to support students in schools with higher debt. 
+
+Overall, these two graphs can provide some guidance for governmental officials to have a focused way to look into the issue of student loans/debt across the country. 
+
 
 ## References
 - MakeoverMonday (https://makeovermonday.co.uk/)
