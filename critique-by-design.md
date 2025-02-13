@@ -9,7 +9,15 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+In my Telling Stories with Data course with Professor Goranson, we worked on redesigning a data visualization from either a professional organization or government agency. Here is the example I picked:
+MakeoverMonday: 12/06/2021, What Schools Create the Most Student Loans in the U.S.? 
+https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state 
+
+![alt text](https://github.com/kerryhuangcmu/Kerry-s-Data-Portfolio/blob/222471322aad97e3461282a0cbfd91181c1f8eb4/MakeoverMonday.png?raw=true)
+
+Student loans/debt is a pressing issue, because although receiving education seems to be a right, in some particular places, the cost of tuition can be a significant financial burden for people. This graph illustrates the universities that rank highest in student loans in each state, highlighting how this issue is represented throughout the country. 
+
+I selected this particular data visualization because while it has the potential to tell a compelling story and raise awareness on an important problem, the execution of the graph is unsuccessful in doing so. Rather, the graph presents too much information without clear organization, making it difficult for the viewers to gain meaningful insights clearly, quickly, and effectively. When I first clicked on the link, I was overwhelmed by the colors and the massive amount of information crammed all into the map. Although contextual explanations in the article helped me understand what the visualization is about, it contained too much information and took a while to process. There was a need to redesign it. The graph is trying to talk about too many things, making it lose focus. My goal is to redesign this visualization using some parts of the data that I found the most important in telling a clearer, stronger story about student loans in the United States. 
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
