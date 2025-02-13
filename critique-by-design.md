@@ -76,7 +76,7 @@ Results:
 | What do you think this data visualization is about?  |  10 universities with highest loans |  10 universities with highest loans |
 | Is it clear what this data visualization is telling you?  | yes | yes|
 | What do you think about the colors in this visualization?  |Good separation of variables using colors| They look fine, not distracting or too sharp  |
-|Who do you think the intended audience for this visualization is? | Unclear  | Unclear |
+|Who do you think the intended audience for this visualization is? | Unclear since the title doesn't really stress whether it is school or student loans  | Unclear |
 | Is there anything you would change or do differently?   | Think about who I’m targeting with this info, so it can better help me narrow down which target audience I’m trying to tell this story to. Rmove the lines in the background of the graph and add numbers on top of the bar.   | Unsure about what the public, private, and proprietary icons indicate. It was confusing whether those mean the type of schools or the type of loans. Can be confused with the type of loans,  make it clear what variables are being discussed.|
 
 Synthesis: 
@@ -89,6 +89,7 @@ The design changes I will implement will be as follows:
 - Take out the line in the background of the graph
 - Add numbers to the top of each bar
 - Put a note indicating that “public, private, proprietary” means types of student loans
+- Make it clear in the title that it is student loan
 - Refine what type of story I want to tell and reorganize and pick the data accordingly
 
 
