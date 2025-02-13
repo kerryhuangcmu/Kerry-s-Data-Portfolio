@@ -128,4 +128,5 @@ Overall, these two graphs can provide some guidance for governmental officials t
 
 ## AI acknowledgements
 I used AI to structure my explanations in Step 2: the critique section. I wrote the critique first and asked ChatGPT to make my critique more concise and grammatically correct.
+For Step 5, I asked ChatGPT to refine my wording and help me explain in sentences ideas that I have difficulty articulate precisely and concisely.  
 
