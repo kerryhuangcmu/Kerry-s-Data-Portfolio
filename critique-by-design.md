@@ -6,7 +6,7 @@
 
 In my Telling Stories with Data course with Professor Goranson, we worked on redesigning a data visualization from either a professional organization or government agency. Here is the example I picked:
 MakeoverMonday: 12/06/2021, What Schools Create the Most Student Loans in the U.S.? 
-https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state 
+https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state  
 
 ![alt text](https://github.com/kerryhuangcmu/Kerry-s-Data-Portfolio/blob/222471322aad97e3461282a0cbfd91181c1f8eb4/MakeoverMonday.png?raw=true)
 
@@ -63,33 +63,48 @@ Source: draw.io
 
 This is the script I used during the critique in class. I modified the questions from a sample provided by Professor Goranson.
 - What do you think this data visualization is about?
-- Can you describe what this data visualization is telling you?
+- Is it clear what this data visualization is telling you?
 - What do you think about the colors in this visualization?
-- What story do you think this visualization is trying to tell? 
 - Who do you think the intended audience for this visualization is?
 - Is there anything you would change or do differently? 
 
 
 Results: 
 
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|  Question |  Interview 1 (MEIM interviewee)| Interview 2 (MAM interviewee) |
+|---|---|---|
+| What do you think this data visualization is about?  |  10 universities with highest loans |  10 universities with highest loans |
+| Is it clear what this data visualization is telling you?  | yes | yes|
+| What do you think about the colors in this visualization?  |Good separation of variables using colors| They look fine, not distracting or too sharp  |
+|Who do you think the intended audience for this visualization is? | Unclear  | Unclear |
+| Is there anything you would change or do differently?   | Think about who I’m targeting with this info, so it can better help me narrow down which target audience I’m trying to tell this story to. Rmove the lines in the background of the graph and add numbers on top of the bar.   | Unsure about what the public, private, and proprietary icons indicate. It was confusing whether those mean the type of schools or the type of loans. Can be confused with the type of loans,  make it clear what variables are being discussed.|
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+My graph was overall clear, both understood what the topic is about, and both gave me valuable feedback on how I can improve my graph. The MEIM student suggested that I think about who I’m targeting with this info, so it can better help me narrow down which target audience I’m trying to tell this story to. She also suggested that I can remove the lines in the background of the graph and add numbers on top of the bar. Having precise numbers of the loans will achieve a better understanding of the audience. When looking at my graph, the MAM student was unsure about what my public, private, and proprietary icons indicate. It was confusing whether those mean the type of schools or the type of loans. She originally thought those were categories for the type of loans, so she suggested that I make it clear what I’m talking about.
+
+One key pattern that emerged from the feedback was that both of my critics felt that I needed to justify my data choices more clearly. Although the original dataset contains numbers for all 50 states’ highest student loans, I narrowed it down to only 10 schools, which requires a better explanation of why I made this choice, other than stating there is too much data. I learned from the critique feedback that as a designer, I have preconceived knowledge that others may not. So when I make decisions about the dataset, I need to keep in mind that there is an information gap between the designer and the viewers, and how the designer chooses to present the data visualization influences what viewers understand. This is why it is important to have a clear goal of what specific story I want to tell. This ensures that my data visualization is effective. 
+
+The design changes I will implement will be as follows:
+- Take out the line in the background of the graph
+- Add numbers to the top of each bar
+- Put a note indicating that “public, private, proprietary” means types of student loans
+- Refine what type of story I want to tell and reorganize and pick the data accordingly
+
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+- MakeoverMonday (https://makeovermonday.co.uk/)
+  - 12/06/2021, What Schools Create the Most Student Loans in the U.S.? 
+  - https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state  
+- Stephen Few's Data Visualization Effectiveness Profile: 
+  - https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
+-  Student Debt and the Class of 2020 Interactive Map:
+   - https://ticas.org/interactive-map/
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI to structure my explanations in Step 2: the critique section. I wrote the critique first and asked ChatGPT to make my critique more concise and grammatically correct.
 
