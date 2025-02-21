@@ -39,7 +39,7 @@ Dating app is a very ordinary tool in the current years. There isn’t an age li
 
 Representative individuals I identify are people who have experiences of at least 1 year using dating apps and have experiences talking to people on those platforms. They are the age group of 20ish, which is the group that grows up with the digital technologies. 
 
-This story is mainly for those who are actively forming relationships online. While most of my data comes from the United States, I believe the insights are widely applicable, as romance scams are a global issue. My goal is to reach current and potential dating app users, helping them stay more cautious and informed as they navigate these platforms.
+This story is mainly for those who are actively forming relationships online. While most of my data comes from the United States, I believe the insights are widely applicable, as romance scams are a global issue. My goal is to reach current and potential dating app users, helping them stay more cautious and informed as they navigate these platforms (ChatGPT, 2025).
 
 
 ## Interview script
@@ -102,7 +102,7 @@ During the first round of interview critique, I showed the participants a rough 
 | The takeaway and call to action of the story should be actionable and ties back to the content of the story instead of being some super big goal (ex. Implementation of screening software)| Make the takeaways and call to action actionable and start with recommendations of what each one of us can do, ex. Identifying the signs of scams  |
 |    Although based on interview feedback, there is debate on whether demographics should be a key point, stating clearly the country or scope of the data is still necessary.                                       |     Tell a generalized story that can apply to the risks of dating apps around the world, use supporting data that can be applied to more than one scenarios, and indicate on each graph the years and places/countries those data represent |
 
-Overall, these exercises were incredibly helpful in giving me new perspectives and helping me understand how those without prior knowledge of my data and research interpret the story. These outside views allow me to recognize insights I might have otherwise overlooked. 
+Overall, these exercises were incredibly helpful in giving me new perspectives and helping me understand how those without prior knowledge of my data and research interpret the story. These outside views allow me to recognize insights I might have otherwise overlooked (ChatGPT, 2025). 
 
 
 ## References
