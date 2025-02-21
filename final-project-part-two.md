@@ -30,7 +30,7 @@ Title: Swipe with Caution - The Hidden Dangers of Dating Apps in Digital Age
     specific word use
 - Ending: testimonial from victim: Why is it important to battle scams
 
-
+Here is my updates Shorthand link, you can find the draft of the Shorthand Story here (it is being updated continously): https://preview.shorthand.com/YeTpBdUVw8Ac1xPt 
 # User research 
 
 ## Target audience
