@@ -39,7 +39,7 @@ Dating app is a very ordinary tool in the current years. There isn’t an age li
 
 Representative individuals I identify are people who have experiences of at least 1 year using dating apps and have experiences talking to people on those platforms. They are the age group of 20ish, which is the group that grows up with the digital technologies. 
 
-The story is primary for those who are talking to and on the path of forming relationships online. Although most of my data come from the United States, I beleive they can be applied to other scenarios, because I believe romance scams is more of a universal issue. I hope to reach current and potential users of dating apps with this story so they can be more cautious as they make decisions about the interactions on dating apps. 
+This story is mainly for those who are actively forming relationships online. While most of my data comes from the United States, I believe the insights are widely applicable, as romance scams are a global issue. My goal is to reach current and potential dating app users, helping them stay more cautious and informed as they navigate these platforms.
 
 
 ## Interview script
@@ -54,59 +54,60 @@ My **first round of interviews** are conducted after I have a rough draft of my 
 
 
 
+
+My **second round of the interviews** narrowed down the questions. I interviewed two people with more specific questions about the specific story I am telling. This time, before the interview I prepared a complete outline of my story (including specific wordings I’m going to type in my Storyboard). For interview purposes, I abbreviated it to have the main points  (you can find it in **Wireframes / storyboards** section) and presented it to the interviewees. I also asked them two specific questions regarding my story. 
+
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|   Does my story need a very demographically specific target audience or not?    |     Are you able to understand which specific group my story is targeting?   |
+|  Provide actionable takeaways so people leave with a clear understanding of how to protect themselves from dating apps scams   |     Did my story clearly convey one or two key takeaways on how to combat dating app scams?              |
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+**first round of interviews** findings
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (MEIM student) | Interview 2 (Female) | Interview 3 (Male) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Is the structure of the story good? Does the story flow?| The set up is nice, but there is too much data displayed instead of a coherent story. To add more story elements, maybe add testimonials from victims of romance scams   | Addings more personal narratives or interviews might be better to streamline the story.  |   Currently the data visualizations don’t support each other, they seem to be doing their own things, so trying to tie a connection between them would be better.  |
+|  Do the graphs convey the intended message successfully?   |   Highlight insights of the graph, for example, add specific numbers to each peak of the line graph. | Use scrollable line graph to make it interactive  |   Currently using 3 bars to indicate the top three dating apps downloaded might not be enough, should also add the other dating apps being downloaded as reference point. Could also add data about which app has the most scams.  |
+|  Any content/data that really stands out to you?    |   Men and women ratio in terms of being scammed   | the topic is cool            |   Color pink ties to the context of the story, which is good.           |
 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
 
+**second round of interviews** findings, using the outline from **Wireframes / storyboards** section
+
+| Questions               | Interview 1 (Male 2) | Interview 2 (Female 2)| 
+|-------------------------|--------------------------------|-------------|
+|Are you able to understand which specific group my story is targeting?  | It is important to add it in the beginning of the story so the audience knows which group I’m focusing on. He suggested I should find data on one dating app and deconstruct it, but I told him it was hard to find a lot of data on only one dating app.  | dding demographics can be confusing because demographics can create disparities and complicate things. For example, if I only choose to focus on California, then what happens in one state might not apply to another and the data is not as applicable.  |             
+| Did my story clearly convey one or two key takeaways on how to combat dating app scams?|             Screening softwares may already be implemented in dating apps, also each dating app might need a different approach towards scams. If I’m not focusing on one specific dating app, then he agrees with the female interviewee to just make generalized and actionable suggestions that everyone can execute on themselves. | There is too much call to action, which can make it confusing. Having just one or two specific major calls to actions is good, so viewers leave with a clear takeaway in mind. |                                    
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+During the first round of interview critique, I showed the participants a rough draft of the story I created on Shorthand. After the critique, I created an outline (which you can find in the storyboard section) based on the specific critique they provided me and then did a second round of interview critique. I will refine both interviews’ changes in Part III.
+
+**First round of interview:** (these  changes have started to be been implemented in the storyboard)
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The story starts off strong, but soon the interviewees were unclear about the story’s structure | Use guiding phrases in each section to tie key points together, follow a step by step process of What, Why, How, Call to Action.  | 
+|     Interviewees were overwhelmed by data   |    Separate data graphs by transitions that introduce the graphs and explain them. Insert narratives next to the graphs, make graphs interactive (ex. FTC report on romance scams 2018-2023).     |
+|   Did not explain the specific demographic/country/timeframe that I am analyzing, or it was unclear in my story      |       State clearly from the Hook part that I am analyzing data in recent years (within the frame of 2018-2024). Focus specifically on demographics of adults aged 20 onwards.  |
 
-> ...include any final thoughts you have here. 
 
-Text here!
+**Second round of interview:**
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+| Research synthesis                       | Anticipated changes for Part III                                                |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| The takeaway and call to action of the story should be actionable and ties back to the content of the story instead of being some super big goal (ex. Implementation of screening software)| Make the takeaways and call to action actionable and start with recommendations of what each one of us can do, ex. Identifying the signs of scams  |
+|    Although based on interview feedback, there is debate on whether demographics should be a key point, stating clearly the country or scope of the data is still necessary.                                       |     Tell a generalized story that can apply to the risks of dating apps around the world, use supporting data that can be applied to more than one scenarios, and indicate on each graph the years and places/countries those data represent |
 
-Text here!
+Overall, these exercises were incredibly helpful in giving me new perspectives and helping me understand how those without prior knowledge of my data and research interpret the story. These outside views allow me to recognize insights I might have otherwise overlooked. 
+
 
 ## References
-_List any references you used here._
+_Shorthand website, use of data are cited in Shorthand_
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used ChatGPT to help me rephrase my sentences in the last paragraph of **Target audience** and the **Overall** part right below the ''Identify changes for Part III'' Second round of interviews' table. Both were my original ideas but I input my paragraphs and asked GPT to make them more concise._
 
