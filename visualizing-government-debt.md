@@ -84,6 +84,7 @@ Part 2’s graph shows all the participating countries' debt to GDP ratios, thro
     <param name="filter" value="publish=yes" />
   </object>
 </div>
+
 <script type="text/javascript">
   var divElement = document.getElementById("viz1740780915406");
   var vizElement = divElement.getElementsByTagName("object")[0];
