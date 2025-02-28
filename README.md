@@ -1,15 +1,11 @@
 | [home page](https://kerryhuangcmu.github.io/Kerry-s-Data-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Kerry Huang's Data Portfolio Page
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go!
+Below is an example of my work, you can find more on other tabs!
 <div class='tableauPlaceholder' id='viz1738009625030' style='position: relative'><noscript><a href='#'><img alt='Trust in news organizations (source: Simmons Research) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_17380093512260&#47;Barchart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book2_17380093512260&#47;Barchart' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_17380093512260&#47;Barchart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>                    
 var divElement = document.getElementById('viz1738009625030');                    
@@ -22,21 +18,13 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 
 # About me
-Hi! My name is Kerry and I am a first-year Master of Entertainment Industry Management student at Heinz. My pronouns are she/her/hers. Future employers please hire me thank you.
+Hi! My name is Kerry and I am a first-year Master of Entertainment Industry Management student at Heinz. My pronouns are she/her/hers. I have experience working in storytelling using data visualization.
 
 # What I hope to learn
 I'm interested in learning how to use data visulization to make information more concise. I want to be able to utilize data visualization in my future internships/jobs in areas such as film or TV marketing, industry research, and other data-related tasks. I want to look professional through using data visulization. Once I graduate, I hope to work in the backend of the entertainment industry and utilize what I've learned in this course to create professional industry content in entertainment projects. 
 
-# Portfolio
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
 
-## Project 1
-## Project 2
-## Project 3
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
