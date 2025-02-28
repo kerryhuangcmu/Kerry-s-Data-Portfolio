@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://kerryhuangcmu.github.io/Kerry-s-Data-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 I build a rough draft on Shorthand first, then after my first round of interview (see first half of User research section), I developed the following outline of the story. Below is an abbrevicate version that outline the key points of my story. I used this outline as a storyboard for my second round of interviews.
